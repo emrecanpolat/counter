@@ -1,3 +1,43 @@
-p{
-    font-size: 175px;
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: #fff;
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+.container2 {
+    text-align: center;
+    margin: 20px;
+}
+
+#firstValue {
+    font-size: 24px;
+    margin: 20px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
 }
